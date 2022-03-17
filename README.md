@@ -1,18 +1,16 @@
-# ID3-Decision-Tree-
-ID3 Decision Tree Implementation
-
-This project is part of a postgraduate Engineering course in Machine Learning and concerns Decision Trees.
+# ID3-Decision-Tree from Scratch
+ID3 Decision Tree Implementation from Scratch
 
 The parameters of the project are as follows:
 
-1) Implement a decision tree learner from scratch based on the ID3 algorithm
-   a) Programming language of your choice (in case of Python selected, don't include scikit-learn imports)
+1) Implementantion of a decision tree learner from scratch based on the ID3 algorithm
+   a) Python programming language (without scikit-learn imports)
    b) Interface of your choice
-2) Implement 3 different splitting functions:
+2) Implementantion of 3 different splitting functions:
    a) Random
    b) Information gain
    c) Gain ratio
-3) Your program should be able to:
+3) The program is able to:
    a) read the UCI Car Evaluation dataset
    b) provide the following evaluation methods:
       b.1) Holdout (p% for training (1-p)% for test)
